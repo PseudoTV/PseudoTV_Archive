@@ -1,0 +1,137 @@
+Changelog
+
+2.2.22
+    Fixed bug where channel changed flag was not being reset after channel reset
+    Fixed bug where tv network channel randomization
+    Added latest code updates from PseudoTV
+
+2.2.21
+    Added fix to properly locate custom playlists again...hopefully.
+
+2.2.20
+    Fixed bug with Movie Genre saving incorrect setting
+
+2.2.19
+    Added additional thread break points to improve EPG performance when background 
+    thread is enabled
+
+2.2.18
+    Added fix to properly locate custom playlists
+    Changed Channel Config skin file name
+
+2.2.17
+    Fixed some more encoding issues
+    Added more thread exits to improve thread closing speed
+
+2.2.16
+    Updated code that retrieves Music and Movie genres
+    Added settings to select how many movie and music genres to return
+
+2.2.15
+    Added code to escape apostrophes in xml
+
+2.2.14
+    Added functionality to stop prestaging channels if EPG is open and 
+    start prestaging channels again if EPG closes
+
+2.2.13
+    Added Prestage Channels toggle setting to turn feature on or off
+
+2.2.12
+    Fixed utf-8 decoding error in config.py
+
+2.2.11
+    Fixed issue with default encoding
+
+2.2.10
+    Fixed bug in Auto Tune TV Genres setting
+    Added missing ChannelListThread update file
+    
+2.2.9
+    Added Startup Channel feature
+    Limit Music Genres to top 15 like Movie Studios
+
+2.2.8
+    Added back prestage file list functionality.  
+    Pending confirmation if it causes any performance issues
+
+2.2.7
+    Updated skin specific channel configuration
+
+2.2.1 - 2.2.6
+    Added Folder Based Channels
+    Added Music Genre Channels
+    Added Enhanced Channel Configuration Wizard
+    Added Auto Tune feature to find and auto configure channels
+    Added Off Air feature to add a user selected video if no channel
+    files are found	
+
+2.2.0
+    Updated to Jason's 1.2.0 code base
+
+2.0.0 
+    Major release incorporated the latest PseudoTV updates and:
+	Added Folder Based Channels
+	Added Music Genre Channels
+	Added Auto Exit after Scheduled Reset
+	Added Enhanced Channel Configuration Wizard
+	Added Auto Tune feature to find and auto configure channels
+	Added Off Air feature to add a user selected video if no channel
+ 	files are found	
+
+1.0.16
+    Simplified Commercials, Bumpers and Trailers functionality
+    Fixed EPG issue when trailers added to movie channels
+
+1.0.15
+    Another bug fix update 
+
+1.0.14
+    Bug fixes 
+
+1.0.13
+    Adjusted settings strings to look better in Confluence (no overruns) 
+
+1.0.12
+    Added Commercial, Bumpers and Trailers feature
+    Updated Loading Dialog to show more detail during mixed channel build
+    Fixed bug with Bravo preset channel name
+
+1.0.11
+    Added Night Skin
+
+1.0.10
+    Fixed bug where channel m3u filenames were not being set correctly when auto reset is run.
+
+1.0.9
+    Fixed bug where multiple resets could be triggered simultaneously.  This caused an issue where script would report Unable to find any channels.
+
+1.0.8
+    Added ability to specify a custom Channel Logo Folder in Settings
+
+1.0.7
+    Fixed bug with auto-reset causing script and xbmc to hang
+    Modified update dialog to make it more streamlined and provide more feedback
+    Added channel logos provided by zepfan who thinks they were created by Hitcher
+    Added sranshaft channel logos
+
+1.0.6
+    Fixed bug causing script to fail on *nix systems
+
+1.0.5
+    Added ability to schedule when channel resets occur, e.g. Each Day at 1:00am
+
+1.0.4
+    Added channel bug setting.
+
+1.0.3
+    Added additional debug logging output to Overlay.py
+
+1.0.2
+    Added additional debug logging output to PresetChannels.py
+
+1.0.1
+    Fixed bug where custom channels were not being imported correctly.
+
+1.0.0
+    First version after forking pseudoTV and adding new channel management system.

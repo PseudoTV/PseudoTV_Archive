@@ -1,0 +1,93 @@
+<strings>
+    <string id="30000">General Settings</string>
+    <string id="30001">Auto-off Timer(in minutes)</string>
+    <string id="30002">Force Channel Reset</string>
+    <string id="30003">Show info when changing channels</string>
+    <string id="30004">Time between channel resets</string>
+    <string id="30006">Always show channel logo</string>
+    <string id="30007">General Settings</string>
+    <string id="30008">Open Channel Configuration</string>
+    <string id="30009">Other Settings</string>
+    <string id="30010">Channel Logo Folder</string>
+    <string id="30011">Default channel times at startup</string>
+   
+    <string id="30020">Auto Tune</string>
+    <string id="30021">General Settings</string>
+    <string id="30022">Default channel times at startup</string>
+    <string id="30023">Commercials are any short video advertisement or promo</string>
+    <string id="30024">Enable Commercials</string>
+    <string id="30025">Folder where commercial videos are</string>
+    <string id="30026">Select Commercials Folder</string>
+    <string id="30027">If Auto, TV Time will determine how often</string>
+    <string id="30028"># of Commercials to Show Between Shows</string>
+    <string id="30029">If Auto, set the maximum number to show between shows</string>
+    <string id="30030">Maximum Number of Commercials</string>
+
+    <string id="30031">Show trailers between your movies</string>
+    <string id="30032">Enable Trailers</string>
+    <string id="30033">Folder where Trailers are</string>
+    <string id="30034">Select Trailers Folder</string>
+    <string id="30035">If Auto, TV Time will determine how often</string>
+    <string id="30036"># of Trailers to Show Between Shows</string>
+    <string id="30037">If Auto, set the maximum number to show between shows</string>
+    <string id="30038">Maximum Number of Trailers</string>
+
+    <string id="30040">Auto Tune Settings</string>
+    <string id="30041">Find TV Networks</string>
+    <string id="30042">Find Movie Studios</string>
+    <string id="30043">Find TV Genres</string>
+    <string id="30044">Find Movie Genres</string>
+    <string id="30045">Find Mix Genres</string>
+    <string id="30046">Find Music Genres</string>
+    <string id="30047">Find Live Channels</string>
+
+    <string id="30050">Off Air Settings</string>
+    <string id="30051">Enable Off Air Mode</string>
+    <string id="30052">Select the Offair file to play</string>
+    <string id="30053">Off Air</string>
+
+    <string id="30054">Channel Limit Settings</string>
+    <string id="30055">Number of Episodes/Movies Per Channel</string>
+
+    <string id="30056">    Resolution</string>
+    <string id="30057">    Unwatched</string>
+    <string id="30058">    Random TV Shows</string>
+    <string id="30059">    No Specials</string>
+    <string id="30060">    Serial Mode</string>
+    <string id="30061">    Sequence:</string>
+    <string id="30062">    Number of Episodes</string>
+    <string id="30063">    Number of Movies</string>
+
+    <string id="30900">Enable Auto Channel Reset</string>
+    <string id="30901">    Time between auto channel resets</string>
+    <string id="30902">    Interval Between Auto Resets</string>
+    <string id="30903">    Hour to Auto Reset Channels</string>
+    <string id="30904">Channel Settings</string>
+    <string id="30905">Bumpers</string>
+    <string id="30906">Commercials</string>
+    <string id="30907">Trailers</string>
+    <string id="30908">Manually Config Channel Settings</string>
+    <string id="30909">Bumper Settings</string>
+    <string id="30910">Commercial Settings</string>
+    <string id="30911">Trailer Settings</string>
+    <string id="30912">Bumpers are short videos TV stations play between shows</string>
+    <string id="30913">Enable Bumpers</string>
+    <string id="30914">Folder where bumper videos are</string>
+    <string id="30915">Select Bumpers Folder</string>
+    <string id="30916">If Auto, TV Time will determine how often</string>
+    <string id="30917"># of Bumpers to Show Between Shows</string>
+    <string id="30918">If Auto, set the maximum number to show between shows</string>
+    <string id="30919">Maximum Number of Bumpers</string>
+    <string id="30920">Organize bumpers by channel name, e.g.</string>
+    <string id="30921">C:\Bumpers\CBS</string>
+    <string id="30922">C:\Bumpers\FOX</string>
+    <string id="30923">    Shutdown After Auto Channel Reset</string>
+    <string id="30924">If TV Time doesn't find any videos for the channel,</string>
+    <string id="30925">Off Air mode will insert a file you choose for the channel.</string>
+
+    <string id="30926">Startup Channel</string>
+    <string id="30927">Prestage Channels</string>
+    <string id="30928">Maximum # of Music Genres to Return</string>
+    <string id="30929">Maximum # of Movie Genres to Return</string>
+
+</strings>
